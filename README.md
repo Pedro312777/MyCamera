@@ -90,3 +90,7 @@ Desenvolvido por **José Pedro da Silva Morais**.
 
 - GitHub: https://github.com/Pedro312777
 - LinkedIn: https://www.linkedin.com/in/josepedro-dev/
+
+---
+
+⭐ Caso tenha gostado do projeto, deixe uma estrela no repositório!
