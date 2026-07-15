@@ -88,6 +88,8 @@ Este projeto foi desenvolvido com fins de aprendizado, explorando recursos como:
 
 Desenvolvido por **José Pedro da Silva Morais**.
 
+Graduado em Análise e Desenvolvimento de Sistemas.
+
 - GitHub: https://github.com/Pedro312777
 - LinkedIn: https://www.linkedin.com/in/josepedro-dev/
 
