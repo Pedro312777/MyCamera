@@ -88,7 +88,7 @@ Este projeto foi desenvolvido com fins de aprendizado, explorando recursos como:
 
 Desenvolvido por **José Pedro da Silva Morais**.
 
-Graduado em Análise e Desenvolvimento de Sistemas.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 
 ## 📫 Contato
 
